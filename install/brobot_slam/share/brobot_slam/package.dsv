@@ -1,0 +1,6 @@
+source;share/brobot_slam/hook/pythonpath.ps1
+source;share/brobot_slam/hook/pythonpath.dsv
+source;share/brobot_slam/hook/pythonpath.sh
+source;share/brobot_slam/hook/ament_prefix_path.ps1
+source;share/brobot_slam/hook/ament_prefix_path.dsv
+source;share/brobot_slam/hook/ament_prefix_path.sh

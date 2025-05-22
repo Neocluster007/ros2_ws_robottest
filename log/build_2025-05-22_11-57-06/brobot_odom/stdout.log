@@ -1,0 +1,37 @@
+running egg_info
+creating ../../build/brobot_odom/brobot_odom.egg-info
+writing ../../build/brobot_odom/brobot_odom.egg-info/PKG-INFO
+writing dependency_links to ../../build/brobot_odom/brobot_odom.egg-info/dependency_links.txt
+writing entry points to ../../build/brobot_odom/brobot_odom.egg-info/entry_points.txt
+writing requirements to ../../build/brobot_odom/brobot_odom.egg-info/requires.txt
+writing top-level names to ../../build/brobot_odom/brobot_odom.egg-info/top_level.txt
+writing manifest file '../../build/brobot_odom/brobot_odom.egg-info/SOURCES.txt'
+reading manifest file '../../build/brobot_odom/brobot_odom.egg-info/SOURCES.txt'
+writing manifest file '../../build/brobot_odom/brobot_odom.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ubuntu/ros2_ws_robottest/build/brobot_odom/build
+creating /home/ubuntu/ros2_ws_robottest/build/brobot_odom/build/lib
+creating /home/ubuntu/ros2_ws_robottest/build/brobot_odom/build/lib/brobot_odom
+copying brobot_odom/__init__.py -> /home/ubuntu/ros2_ws_robottest/build/brobot_odom/build/lib/brobot_odom
+copying brobot_odom/odom_publisher.py -> /home/ubuntu/ros2_ws_robottest/build/brobot_odom/build/lib/brobot_odom
+running install
+running install_lib
+creating /home/ubuntu/ros2_ws_robottest/install/brobot_odom/lib/python3.10/site-packages/brobot_odom
+copying /home/ubuntu/ros2_ws_robottest/build/brobot_odom/build/lib/brobot_odom/__init__.py -> /home/ubuntu/ros2_ws_robottest/install/brobot_odom/lib/python3.10/site-packages/brobot_odom
+copying /home/ubuntu/ros2_ws_robottest/build/brobot_odom/build/lib/brobot_odom/odom_publisher.py -> /home/ubuntu/ros2_ws_robottest/install/brobot_odom/lib/python3.10/site-packages/brobot_odom
+byte-compiling /home/ubuntu/ros2_ws_robottest/install/brobot_odom/lib/python3.10/site-packages/brobot_odom/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/ubuntu/ros2_ws_robottest/install/brobot_odom/lib/python3.10/site-packages/brobot_odom/odom_publisher.py to odom_publisher.cpython-310.pyc
+running install_data
+copying package.xml -> /home/ubuntu/ros2_ws_robottest/install/brobot_odom/share/brobot_odom
+creating /home/ubuntu/ros2_ws_robottest/install/brobot_odom/share/brobot_odom/launch
+copying launch/ekf_launch.py -> /home/ubuntu/ros2_ws_robottest/install/brobot_odom/share/brobot_odom/launch
+creating /home/ubuntu/ros2_ws_robottest/install/brobot_odom/share/brobot_odom/config
+copying config/ekf.yaml -> /home/ubuntu/ros2_ws_robottest/install/brobot_odom/share/brobot_odom/config
+creating /home/ubuntu/ros2_ws_robottest/install/brobot_odom/share/brobot_odom/resource
+copying resource/brobot_odom -> /home/ubuntu/ros2_ws_robottest/install/brobot_odom/share/brobot_odom/resource
+running install_egg_info
+Copying ../../build/brobot_odom/brobot_odom.egg-info to /home/ubuntu/ros2_ws_robottest/install/brobot_odom/lib/python3.10/site-packages/brobot_odom-0.0.1-py3.10.egg-info
+running install_scripts
+Installing odom script to /home/ubuntu/ros2_ws_robottest/install/brobot_odom/lib/brobot_odom
+writing list of installed files to '/home/ubuntu/ros2_ws_robottest/build/brobot_odom/install.log'

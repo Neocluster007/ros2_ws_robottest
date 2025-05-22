@@ -1,0 +1,25 @@
+[0.911s] Invoking command in '/home/ubuntu/ros2_ws_robottest/build/micro_ros_agent': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws_robottest/install/brobot_joystick:/home/ubuntu/ros2_ws_robottest/install/brobot_joyxbox:/home/ubuntu/ros2_ws/install/chamoung_ChatbotSpeak:/home/ubuntu/ros2_ws_robottest/install/brobot_tf:/home/ubuntu/ros2_ws_robottest/install/brobot_slam:/home/ubuntu/ros2_ws_robottest/install/brobot_odom:/home/ubuntu/ros2_ws_robottest/install/brobot_navigation:/home/ubuntu/ros2_ws_robottest/install/brobot_display:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ros2_ws_robottest/build/micro_ros_agent -- -j8 -l8
+[0.982s] [100%] Built target micro_ros_agent
+[0.998s] Invoked command in '/home/ubuntu/ros2_ws_robottest/build/micro_ros_agent' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws_robottest/install/brobot_joystick:/home/ubuntu/ros2_ws_robottest/install/brobot_joyxbox:/home/ubuntu/ros2_ws/install/chamoung_ChatbotSpeak:/home/ubuntu/ros2_ws_robottest/install/brobot_tf:/home/ubuntu/ros2_ws_robottest/install/brobot_slam:/home/ubuntu/ros2_ws_robottest/install/brobot_odom:/home/ubuntu/ros2_ws_robottest/install/brobot_navigation:/home/ubuntu/ros2_ws_robottest/install/brobot_display:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ros2_ws_robottest/build/micro_ros_agent -- -j8 -l8
+[1.008s] Invoking command in '/home/ubuntu/ros2_ws_robottest/build/micro_ros_agent': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws_robottest/install/brobot_joystick:/home/ubuntu/ros2_ws_robottest/install/brobot_joyxbox:/home/ubuntu/ros2_ws/install/chamoung_ChatbotSpeak:/home/ubuntu/ros2_ws_robottest/install/brobot_tf:/home/ubuntu/ros2_ws_robottest/install/brobot_slam:/home/ubuntu/ros2_ws_robottest/install/brobot_odom:/home/ubuntu/ros2_ws_robottest/install/brobot_navigation:/home/ubuntu/ros2_ws_robottest/install/brobot_display:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ros2_ws_robottest/build/micro_ros_agent
+[1.019s] -- Install configuration: ""
+[1.021s] -- Up-to-date: /home/ubuntu/ros2_ws_robottest/install/micro_ros_agent/share/ament_index/resource_index/package_run_dependencies/micro_ros_agent
+[1.022s] -- Up-to-date: /home/ubuntu/ros2_ws_robottest/install/micro_ros_agent/share/ament_index/resource_index/parent_prefix_path/micro_ros_agent
+[1.022s] -- Up-to-date: /home/ubuntu/ros2_ws_robottest/install/micro_ros_agent/share/micro_ros_agent/environment/ament_prefix_path.sh
+[1.022s] -- Up-to-date: /home/ubuntu/ros2_ws_robottest/install/micro_ros_agent/share/micro_ros_agent/environment/ament_prefix_path.dsv
+[1.022s] -- Up-to-date: /home/ubuntu/ros2_ws_robottest/install/micro_ros_agent/share/micro_ros_agent/environment/path.sh
+[1.023s] -- Up-to-date: /home/ubuntu/ros2_ws_robottest/install/micro_ros_agent/share/micro_ros_agent/environment/path.dsv
+[1.023s] -- Up-to-date: /home/ubuntu/ros2_ws_robottest/install/micro_ros_agent/share/micro_ros_agent/local_setup.bash
+[1.023s] -- Up-to-date: /home/ubuntu/ros2_ws_robottest/install/micro_ros_agent/share/micro_ros_agent/local_setup.sh
+[1.023s] -- Up-to-date: /home/ubuntu/ros2_ws_robottest/install/micro_ros_agent/share/micro_ros_agent/local_setup.zsh
+[1.023s] -- Up-to-date: /home/ubuntu/ros2_ws_robottest/install/micro_ros_agent/share/micro_ros_agent/local_setup.dsv
+[1.023s] -- Installing: /home/ubuntu/ros2_ws_robottest/install/micro_ros_agent/share/micro_ros_agent/package.dsv
+[1.023s] -- Up-to-date: /home/ubuntu/ros2_ws_robottest/install/micro_ros_agent/share/ament_index/resource_index/packages/micro_ros_agent
+[1.023s] -- Up-to-date: /home/ubuntu/ros2_ws_robottest/install/micro_ros_agent/share/micro_ros_agent/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.023s] -- Up-to-date: /home/ubuntu/ros2_ws_robottest/install/micro_ros_agent/share/micro_ros_agent/cmake/micro_ros_agentConfig.cmake
+[1.023s] -- Up-to-date: /home/ubuntu/ros2_ws_robottest/install/micro_ros_agent/share/micro_ros_agent/cmake/micro_ros_agentConfig-version.cmake
+[1.023s] -- Up-to-date: /home/ubuntu/ros2_ws_robottest/install/micro_ros_agent/share/micro_ros_agent/package.xml
+[1.023s] -- Up-to-date: /home/ubuntu/ros2_ws_robottest/install/micro_ros_agent/lib/micro_ros_agent/micro_ros_agent
+[1.023s] -- Up-to-date: /home/ubuntu/ros2_ws_robottest/install/micro_ros_agent/share/micro_ros_agent/launch
+[1.023s] -- Up-to-date: /home/ubuntu/ros2_ws_robottest/install/micro_ros_agent/share/micro_ros_agent/launch/micro_ros_agent_launch.py
+[1.024s] Invoked command in '/home/ubuntu/ros2_ws_robottest/build/micro_ros_agent' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2_ws_robottest/install/brobot_joystick:/home/ubuntu/ros2_ws_robottest/install/brobot_joyxbox:/home/ubuntu/ros2_ws/install/chamoung_ChatbotSpeak:/home/ubuntu/ros2_ws_robottest/install/brobot_tf:/home/ubuntu/ros2_ws_robottest/install/brobot_slam:/home/ubuntu/ros2_ws_robottest/install/brobot_odom:/home/ubuntu/ros2_ws_robottest/install/brobot_navigation:/home/ubuntu/ros2_ws_robottest/install/brobot_display:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ros2_ws_robottest/build/micro_ros_agent

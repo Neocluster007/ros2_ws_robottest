@@ -1,0 +1,15 @@
+<package format="3">
+  <name>brobot_slam</name>
+  <version>0.0.1</version>
+  <description>SLAM toolbox launch package</description>
+  <maintainer email="your@email.com">Your Name</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+  <exec_depend>slam_toolbox</exec_depend>
+  <exec_depend>rclpy</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

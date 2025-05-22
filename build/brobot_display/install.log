@@ -1,0 +1,13 @@
+/home/ubuntu/ros2_ws_robottest/install/brobot_display/share/ament_index/resource_index/packages/brobot_display
+/home/ubuntu/ros2_ws_robottest/install/brobot_display/share/brobot_display/package.xml
+/home/ubuntu/ros2_ws_robottest/install/brobot_display/share/brobot_display/launch/display.launch.py
+/home/ubuntu/ros2_ws_robottest/install/brobot_display/share/brobot_display/urdf/brobot.urdf.xacro
+/home/ubuntu/ros2_ws_robottest/install/brobot_display/share/brobot_display/rviz/display.rviz
+/home/ubuntu/ros2_ws_robottest/install/brobot_display/share/brobot_display/meshes/base.stl
+/home/ubuntu/ros2_ws_robottest/install/brobot_display/lib/python3.10/site-packages/brobot_display-0.0.0-py3.10.egg-info/requires.txt
+/home/ubuntu/ros2_ws_robottest/install/brobot_display/lib/python3.10/site-packages/brobot_display-0.0.0-py3.10.egg-info/entry_points.txt
+/home/ubuntu/ros2_ws_robottest/install/brobot_display/lib/python3.10/site-packages/brobot_display-0.0.0-py3.10.egg-info/PKG-INFO
+/home/ubuntu/ros2_ws_robottest/install/brobot_display/lib/python3.10/site-packages/brobot_display-0.0.0-py3.10.egg-info/top_level.txt
+/home/ubuntu/ros2_ws_robottest/install/brobot_display/lib/python3.10/site-packages/brobot_display-0.0.0-py3.10.egg-info/dependency_links.txt
+/home/ubuntu/ros2_ws_robottest/install/brobot_display/lib/python3.10/site-packages/brobot_display-0.0.0-py3.10.egg-info/SOURCES.txt
+/home/ubuntu/ros2_ws_robottest/install/brobot_display/lib/python3.10/site-packages/brobot_display-0.0.0-py3.10.egg-info/zip-safe

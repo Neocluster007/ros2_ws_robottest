@@ -1,0 +1,3 @@
+[console_scripts]
+odom = brobot_odom.odom_publisher:main
+

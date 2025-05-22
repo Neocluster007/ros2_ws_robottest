@@ -1,0 +1,3 @@
+[console_scripts]
+joyxbox = brobot_joystick.joy_xbox:main
+

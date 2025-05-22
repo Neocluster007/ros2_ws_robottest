@@ -1,0 +1,30 @@
+running egg_info
+creating ../../build/brobot_navigation/brobot_navigation.egg-info
+writing ../../build/brobot_navigation/brobot_navigation.egg-info/PKG-INFO
+writing dependency_links to ../../build/brobot_navigation/brobot_navigation.egg-info/dependency_links.txt
+writing entry points to ../../build/brobot_navigation/brobot_navigation.egg-info/entry_points.txt
+writing requirements to ../../build/brobot_navigation/brobot_navigation.egg-info/requires.txt
+writing top-level names to ../../build/brobot_navigation/brobot_navigation.egg-info/top_level.txt
+writing manifest file '../../build/brobot_navigation/brobot_navigation.egg-info/SOURCES.txt'
+reading manifest file '../../build/brobot_navigation/brobot_navigation.egg-info/SOURCES.txt'
+writing manifest file '../../build/brobot_navigation/brobot_navigation.egg-info/SOURCES.txt'
+running build
+running install
+running install_data
+creating /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/launch
+copying launch/nav2_launch.py -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/launch
+creating /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/config
+copying config/amcl.yaml -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/config
+copying config/nav2_params.yaml -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/config
+copying config/bt_navigator.yaml -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/config
+copying config/planner_server.yaml -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/config
+copying config/navigate_through_poses_w_replanning_and_recovery.xml -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/config
+copying config/navigate_to_pose_w_replanning_and_recovery.xml -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/config
+creating /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/maps
+copying maps/map.yaml -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/maps
+copying maps/map.pgm -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/maps
+copying package.xml -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation
+running install_egg_info
+Copying ../../build/brobot_navigation/brobot_navigation.egg-info to /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/lib/python3.10/site-packages/brobot_navigation-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/ubuntu/ros2_ws_robottest/build/brobot_navigation/install.log'

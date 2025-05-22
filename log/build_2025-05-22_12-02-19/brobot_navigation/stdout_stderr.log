@@ -1,0 +1,16 @@
+running egg_info
+writing ../../build/brobot_navigation/brobot_navigation.egg-info/PKG-INFO
+writing dependency_links to ../../build/brobot_navigation/brobot_navigation.egg-info/dependency_links.txt
+writing entry points to ../../build/brobot_navigation/brobot_navigation.egg-info/entry_points.txt
+writing requirements to ../../build/brobot_navigation/brobot_navigation.egg-info/requires.txt
+writing top-level names to ../../build/brobot_navigation/brobot_navigation.egg-info/top_level.txt
+reading manifest file '../../build/brobot_navigation/brobot_navigation.egg-info/SOURCES.txt'
+writing manifest file '../../build/brobot_navigation/brobot_navigation.egg-info/SOURCES.txt'
+running build
+running install
+running install_data
+running install_egg_info
+removing '/home/ubuntu/ros2_ws_robottest/install/brobot_navigation/lib/python3.10/site-packages/brobot_navigation-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/brobot_navigation/brobot_navigation.egg-info to /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/lib/python3.10/site-packages/brobot_navigation-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/ubuntu/ros2_ws_robottest/build/brobot_navigation/install.log'

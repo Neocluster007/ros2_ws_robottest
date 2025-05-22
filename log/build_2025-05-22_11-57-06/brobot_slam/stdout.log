@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/brobot_slam/brobot_slam.egg-info
+writing ../../build/brobot_slam/brobot_slam.egg-info/PKG-INFO
+writing dependency_links to ../../build/brobot_slam/brobot_slam.egg-info/dependency_links.txt
+writing entry points to ../../build/brobot_slam/brobot_slam.egg-info/entry_points.txt
+writing requirements to ../../build/brobot_slam/brobot_slam.egg-info/requires.txt
+writing top-level names to ../../build/brobot_slam/brobot_slam.egg-info/top_level.txt
+writing manifest file '../../build/brobot_slam/brobot_slam.egg-info/SOURCES.txt'
+reading manifest file '../../build/brobot_slam/brobot_slam.egg-info/SOURCES.txt'
+writing manifest file '../../build/brobot_slam/brobot_slam.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ubuntu/ros2_ws_robottest/build/brobot_slam/build
+creating /home/ubuntu/ros2_ws_robottest/build/brobot_slam/build/lib
+creating /home/ubuntu/ros2_ws_robottest/build/brobot_slam/build/lib/brobot_slam
+copying brobot_slam/__init__.py -> /home/ubuntu/ros2_ws_robottest/build/brobot_slam/build/lib/brobot_slam
+running install
+running install_lib
+creating /home/ubuntu/ros2_ws_robottest/install/brobot_slam/lib/python3.10/site-packages/brobot_slam
+copying /home/ubuntu/ros2_ws_robottest/build/brobot_slam/build/lib/brobot_slam/__init__.py -> /home/ubuntu/ros2_ws_robottest/install/brobot_slam/lib/python3.10/site-packages/brobot_slam
+byte-compiling /home/ubuntu/ros2_ws_robottest/install/brobot_slam/lib/python3.10/site-packages/brobot_slam/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying package.xml -> /home/ubuntu/ros2_ws_robottest/install/brobot_slam/share/brobot_slam
+creating /home/ubuntu/ros2_ws_robottest/install/brobot_slam/share/brobot_slam/launch
+copying launch/slam_launch.py -> /home/ubuntu/ros2_ws_robottest/install/brobot_slam/share/brobot_slam/launch
+creating /home/ubuntu/ros2_ws_robottest/install/brobot_slam/share/brobot_slam/config
+copying config/slam_params.yaml -> /home/ubuntu/ros2_ws_robottest/install/brobot_slam/share/brobot_slam/config
+running install_egg_info
+Copying ../../build/brobot_slam/brobot_slam.egg-info to /home/ubuntu/ros2_ws_robottest/install/brobot_slam/lib/python3.10/site-packages/brobot_slam-0.0.1-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/ubuntu/ros2_ws_robottest/build/brobot_slam/install.log'

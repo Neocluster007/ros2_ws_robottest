@@ -1,0 +1,32 @@
+[1.290s] Invoking command in '/home/ubuntu/ros2_ws_robottest/src/brobot_navigation': PYTHONPATH=/home/ubuntu/ros2_ws_robottest/build/brobot_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws_robottest/install/brobot_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/brobot_navigation build --build-base /home/ubuntu/ros2_ws_robottest/build/brobot_navigation/build install --record /home/ubuntu/ros2_ws_robottest/build/brobot_navigation/install.log --single-version-externally-managed install_data
+[1.508s] running egg_info
+[1.509s] creating ../../build/brobot_navigation/brobot_navigation.egg-info
+[1.509s] writing ../../build/brobot_navigation/brobot_navigation.egg-info/PKG-INFO
+[1.510s] writing dependency_links to ../../build/brobot_navigation/brobot_navigation.egg-info/dependency_links.txt
+[1.510s] writing entry points to ../../build/brobot_navigation/brobot_navigation.egg-info/entry_points.txt
+[1.510s] writing requirements to ../../build/brobot_navigation/brobot_navigation.egg-info/requires.txt
+[1.510s] writing top-level names to ../../build/brobot_navigation/brobot_navigation.egg-info/top_level.txt
+[1.510s] writing manifest file '../../build/brobot_navigation/brobot_navigation.egg-info/SOURCES.txt'
+[1.510s] reading manifest file '../../build/brobot_navigation/brobot_navigation.egg-info/SOURCES.txt'
+[1.511s] writing manifest file '../../build/brobot_navigation/brobot_navigation.egg-info/SOURCES.txt'
+[1.511s] running build
+[1.511s] running install
+[1.511s] running install_data
+[1.511s] creating /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/launch
+[1.511s] copying launch/nav2_launch.py -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/launch
+[1.512s] creating /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/config
+[1.512s] copying config/amcl.yaml -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/config
+[1.512s] copying config/nav2_params.yaml -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/config
+[1.512s] copying config/bt_navigator.yaml -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/config
+[1.512s] copying config/planner_server.yaml -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/config
+[1.512s] copying config/navigate_through_poses_w_replanning_and_recovery.xml -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/config
+[1.512s] copying config/navigate_to_pose_w_replanning_and_recovery.xml -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/config
+[1.513s] creating /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/maps
+[1.513s] copying maps/map.yaml -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/maps
+[1.513s] copying maps/map.pgm -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation/maps
+[1.513s] copying package.xml -> /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/share/brobot_navigation
+[1.513s] running install_egg_info
+[1.515s] Copying ../../build/brobot_navigation/brobot_navigation.egg-info to /home/ubuntu/ros2_ws_robottest/install/brobot_navigation/lib/python3.10/site-packages/brobot_navigation-0.0.0-py3.10.egg-info
+[1.516s] running install_scripts
+[1.531s] writing list of installed files to '/home/ubuntu/ros2_ws_robottest/build/brobot_navigation/install.log'
+[1.563s] Invoked command in '/home/ubuntu/ros2_ws_robottest/src/brobot_navigation' returned '0': PYTHONPATH=/home/ubuntu/ros2_ws_robottest/build/brobot_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws_robottest/install/brobot_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/brobot_navigation build --build-base /home/ubuntu/ros2_ws_robottest/build/brobot_navigation/build install --record /home/ubuntu/ros2_ws_robottest/build/brobot_navigation/install.log --single-version-externally-managed install_data

@@ -1,0 +1,3 @@
+[console_scripts]
+tf = brobot_tf.tf_broadcaster:main
+

@@ -1,0 +1,34 @@
+[1.140s] Invoking command in '/home/ubuntu/ros2_ws_robottest/src/brobot_joystick': PYTHONPATH=/home/ubuntu/ros2_ws_robottest/build/brobot_joystick/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws_robottest/install/brobot_joystick/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/brobot_joystick build --build-base /home/ubuntu/ros2_ws_robottest/build/brobot_joystick/build install --record /home/ubuntu/ros2_ws_robottest/build/brobot_joystick/install.log --single-version-externally-managed install_data
+[1.353s] running egg_info
+[1.353s] creating ../../build/brobot_joystick/brobot_joystick.egg-info
+[1.353s] writing ../../build/brobot_joystick/brobot_joystick.egg-info/PKG-INFO
+[1.353s] writing dependency_links to ../../build/brobot_joystick/brobot_joystick.egg-info/dependency_links.txt
+[1.353s] writing entry points to ../../build/brobot_joystick/brobot_joystick.egg-info/entry_points.txt
+[1.353s] writing requirements to ../../build/brobot_joystick/brobot_joystick.egg-info/requires.txt
+[1.353s] writing top-level names to ../../build/brobot_joystick/brobot_joystick.egg-info/top_level.txt
+[1.354s] writing manifest file '../../build/brobot_joystick/brobot_joystick.egg-info/SOURCES.txt'
+[1.355s] reading manifest file '../../build/brobot_joystick/brobot_joystick.egg-info/SOURCES.txt'
+[1.356s] writing manifest file '../../build/brobot_joystick/brobot_joystick.egg-info/SOURCES.txt'
+[1.358s] running build
+[1.358s] running build_py
+[1.358s] creating /home/ubuntu/ros2_ws_robottest/build/brobot_joystick/build
+[1.358s] creating /home/ubuntu/ros2_ws_robottest/build/brobot_joystick/build/lib
+[1.358s] creating /home/ubuntu/ros2_ws_robottest/build/brobot_joystick/build/lib/brobot_joystick
+[1.358s] copying brobot_joystick/__init__.py -> /home/ubuntu/ros2_ws_robottest/build/brobot_joystick/build/lib/brobot_joystick
+[1.358s] running install
+[1.359s] running install_lib
+[1.359s] creating /home/ubuntu/ros2_ws_robottest/install/brobot_joystick/lib/python3.10/site-packages/brobot_joystick
+[1.359s] copying /home/ubuntu/ros2_ws_robottest/build/brobot_joystick/build/lib/brobot_joystick/__init__.py -> /home/ubuntu/ros2_ws_robottest/install/brobot_joystick/lib/python3.10/site-packages/brobot_joystick
+[1.359s] byte-compiling /home/ubuntu/ros2_ws_robottest/install/brobot_joystick/lib/python3.10/site-packages/brobot_joystick/__init__.py to __init__.cpython-310.pyc
+[1.359s] running install_data
+[1.359s] creating /home/ubuntu/ros2_ws_robottest/install/brobot_joystick/share/ament_index
+[1.360s] creating /home/ubuntu/ros2_ws_robottest/install/brobot_joystick/share/ament_index/resource_index
+[1.360s] creating /home/ubuntu/ros2_ws_robottest/install/brobot_joystick/share/ament_index/resource_index/packages
+[1.360s] copying resource/brobot_joystick -> /home/ubuntu/ros2_ws_robottest/install/brobot_joystick/share/ament_index/resource_index/packages
+[1.360s] copying package.xml -> /home/ubuntu/ros2_ws_robottest/install/brobot_joystick/share/brobot_joystick
+[1.360s] running install_egg_info
+[1.361s] Copying ../../build/brobot_joystick/brobot_joystick.egg-info to /home/ubuntu/ros2_ws_robottest/install/brobot_joystick/lib/python3.10/site-packages/brobot_joystick-0.0.0-py3.10.egg-info
+[1.361s] running install_scripts
+[1.381s] Installing joyxbox script to /home/ubuntu/ros2_ws_robottest/install/brobot_joystick/lib/brobot_joystick
+[1.381s] writing list of installed files to '/home/ubuntu/ros2_ws_robottest/build/brobot_joystick/install.log'
+[1.420s] Invoked command in '/home/ubuntu/ros2_ws_robottest/src/brobot_joystick' returned '0': PYTHONPATH=/home/ubuntu/ros2_ws_robottest/build/brobot_joystick/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws_robottest/install/brobot_joystick/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/brobot_joystick build --build-base /home/ubuntu/ros2_ws_robottest/build/brobot_joystick/build install --record /home/ubuntu/ros2_ws_robottest/build/brobot_joystick/install.log --single-version-externally-managed install_data

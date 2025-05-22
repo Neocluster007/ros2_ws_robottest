@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../../build/brobot_tf/brobot_tf.egg-info/PKG-INFO
+../../build/brobot_tf/brobot_tf.egg-info/SOURCES.txt
+../../build/brobot_tf/brobot_tf.egg-info/dependency_links.txt
+../../build/brobot_tf/brobot_tf.egg-info/entry_points.txt
+../../build/brobot_tf/brobot_tf.egg-info/requires.txt
+../../build/brobot_tf/brobot_tf.egg-info/top_level.txt
+../../build/brobot_tf/brobot_tf.egg-info/zip-safe
+brobot_tf/__init__.py
+brobot_tf/tf_broadcaster.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

@@ -1,0 +1,21 @@
+[1.193s] Invoking command in '/home/ubuntu/ros2_ws_robottest/src/brobot_tf': PYTHONPATH=/home/ubuntu/ros2_ws_robottest/build/brobot_tf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws_robottest/install/brobot_tf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/brobot_tf build --build-base /home/ubuntu/ros2_ws_robottest/build/brobot_tf/build install --record /home/ubuntu/ros2_ws_robottest/build/brobot_tf/install.log --single-version-externally-managed install_data
+[1.418s] running egg_info
+[1.418s] writing ../../build/brobot_tf/brobot_tf.egg-info/PKG-INFO
+[1.418s] writing dependency_links to ../../build/brobot_tf/brobot_tf.egg-info/dependency_links.txt
+[1.418s] writing entry points to ../../build/brobot_tf/brobot_tf.egg-info/entry_points.txt
+[1.419s] writing requirements to ../../build/brobot_tf/brobot_tf.egg-info/requires.txt
+[1.419s] writing top-level names to ../../build/brobot_tf/brobot_tf.egg-info/top_level.txt
+[1.420s] reading manifest file '../../build/brobot_tf/brobot_tf.egg-info/SOURCES.txt'
+[1.421s] writing manifest file '../../build/brobot_tf/brobot_tf.egg-info/SOURCES.txt'
+[1.421s] running build
+[1.421s] running build_py
+[1.421s] running install
+[1.421s] running install_lib
+[1.422s] running install_data
+[1.422s] running install_egg_info
+[1.423s] removing '/home/ubuntu/ros2_ws_robottest/install/brobot_tf/lib/python3.10/site-packages/brobot_tf-0.0.0-py3.10.egg-info' (and everything under it)
+[1.424s] Copying ../../build/brobot_tf/brobot_tf.egg-info to /home/ubuntu/ros2_ws_robottest/install/brobot_tf/lib/python3.10/site-packages/brobot_tf-0.0.0-py3.10.egg-info
+[1.425s] running install_scripts
+[1.439s] Installing tf script to /home/ubuntu/ros2_ws_robottest/install/brobot_tf/lib/brobot_tf
+[1.440s] writing list of installed files to '/home/ubuntu/ros2_ws_robottest/build/brobot_tf/install.log'
+[1.466s] Invoked command in '/home/ubuntu/ros2_ws_robottest/src/brobot_tf' returned '0': PYTHONPATH=/home/ubuntu/ros2_ws_robottest/build/brobot_tf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws_robottest/install/brobot_tf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/brobot_tf build --build-base /home/ubuntu/ros2_ws_robottest/build/brobot_tf/build install --record /home/ubuntu/ros2_ws_robottest/build/brobot_tf/install.log --single-version-externally-managed install_data

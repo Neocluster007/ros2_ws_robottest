@@ -1,0 +1,7 @@
+amcl:
+  ros__parameters:
+    use_sim_time: false
+    scan_topic: scan
+    odom_frame_id: "odom"
+    base_frame_id: "base_link"
+    global_frame_id: "map"

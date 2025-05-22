@@ -1,0 +1,33 @@
+[1.170s] Invoking command in '/home/ubuntu/ros2_ws_robottest/src/brobot_tf': PYTHONPATH=/home/ubuntu/ros2_ws_robottest/build/brobot_tf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws_robottest/install/brobot_tf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/brobot_tf build --build-base /home/ubuntu/ros2_ws_robottest/build/brobot_tf/build install --record /home/ubuntu/ros2_ws_robottest/build/brobot_tf/install.log --single-version-externally-managed install_data
+[1.376s] running egg_info
+[1.377s] creating ../../build/brobot_tf/brobot_tf.egg-info
+[1.377s] writing ../../build/brobot_tf/brobot_tf.egg-info/PKG-INFO
+[1.378s] writing dependency_links to ../../build/brobot_tf/brobot_tf.egg-info/dependency_links.txt
+[1.378s] writing entry points to ../../build/brobot_tf/brobot_tf.egg-info/entry_points.txt
+[1.379s] writing requirements to ../../build/brobot_tf/brobot_tf.egg-info/requires.txt
+[1.379s] writing top-level names to ../../build/brobot_tf/brobot_tf.egg-info/top_level.txt
+[1.379s] writing manifest file '../../build/brobot_tf/brobot_tf.egg-info/SOURCES.txt'
+[1.383s] reading manifest file '../../build/brobot_tf/brobot_tf.egg-info/SOURCES.txt'
+[1.383s] writing manifest file '../../build/brobot_tf/brobot_tf.egg-info/SOURCES.txt'
+[1.383s] running build
+[1.383s] running build_py
+[1.383s] creating /home/ubuntu/ros2_ws_robottest/build/brobot_tf/build
+[1.384s] creating /home/ubuntu/ros2_ws_robottest/build/brobot_tf/build/lib
+[1.384s] creating /home/ubuntu/ros2_ws_robottest/build/brobot_tf/build/lib/brobot_tf
+[1.384s] copying brobot_tf/tf_broadcaster.py -> /home/ubuntu/ros2_ws_robottest/build/brobot_tf/build/lib/brobot_tf
+[1.388s] copying brobot_tf/__init__.py -> /home/ubuntu/ros2_ws_robottest/build/brobot_tf/build/lib/brobot_tf
+[1.389s] running install
+[1.390s] running install_lib
+[1.391s] creating /home/ubuntu/ros2_ws_robottest/install/brobot_tf/lib/python3.10/site-packages/brobot_tf
+[1.391s] copying /home/ubuntu/ros2_ws_robottest/build/brobot_tf/build/lib/brobot_tf/tf_broadcaster.py -> /home/ubuntu/ros2_ws_robottest/install/brobot_tf/lib/python3.10/site-packages/brobot_tf
+[1.391s] copying /home/ubuntu/ros2_ws_robottest/build/brobot_tf/build/lib/brobot_tf/__init__.py -> /home/ubuntu/ros2_ws_robottest/install/brobot_tf/lib/python3.10/site-packages/brobot_tf
+[1.391s] byte-compiling /home/ubuntu/ros2_ws_robottest/install/brobot_tf/lib/python3.10/site-packages/brobot_tf/tf_broadcaster.py to tf_broadcaster.cpython-310.pyc
+[1.392s] byte-compiling /home/ubuntu/ros2_ws_robottest/install/brobot_tf/lib/python3.10/site-packages/brobot_tf/__init__.py to __init__.cpython-310.pyc
+[1.393s] running install_data
+[1.393s] copying package.xml -> /home/ubuntu/ros2_ws_robottest/install/brobot_tf/share/brobot_tf
+[1.393s] running install_egg_info
+[1.395s] Copying ../../build/brobot_tf/brobot_tf.egg-info to /home/ubuntu/ros2_ws_robottest/install/brobot_tf/lib/python3.10/site-packages/brobot_tf-0.0.0-py3.10.egg-info
+[1.396s] running install_scripts
+[1.420s] Installing tf script to /home/ubuntu/ros2_ws_robottest/install/brobot_tf/lib/brobot_tf
+[1.421s] writing list of installed files to '/home/ubuntu/ros2_ws_robottest/build/brobot_tf/install.log'
+[1.444s] Invoked command in '/home/ubuntu/ros2_ws_robottest/src/brobot_tf' returned '0': PYTHONPATH=/home/ubuntu/ros2_ws_robottest/build/brobot_tf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws_robottest/install/brobot_tf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/brobot_tf build --build-base /home/ubuntu/ros2_ws_robottest/build/brobot_tf/build install --record /home/ubuntu/ros2_ws_robottest/build/brobot_tf/install.log --single-version-externally-managed install_data
