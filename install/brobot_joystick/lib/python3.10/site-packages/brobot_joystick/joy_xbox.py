@@ -25,7 +25,7 @@ class JoyCmdVelPublisher(Node):
         self.get_logger().info(f"🎮 จอย: {self.joy.get_name()}")
 
         # ตั้งค่า scale ความเร็ว
-        self.max_linear = 0.5   # m/s
+        self.max_linear = 1.0   # m/s
         self.max_angular = 1.0  # rad/s
 
         self.timer = self.create_timer(0.05, self.timer_callback)  # 20Hz
@@ -38,7 +38,7 @@ class JoyCmdVelPublisher(Node):
         angular_input = self.joy.get_axis(0)  # ซ้ายแนวนอน
 
         twist = Twist()
-        twist.linear.x = linear_input * self.max_linear * 2
+        twist.linear.x = linear_input * self.max_linear
         twist.angular.z = (angular_input*(-1)) * self.max_angular
         self.cmd_pub.publish(twist)
 
