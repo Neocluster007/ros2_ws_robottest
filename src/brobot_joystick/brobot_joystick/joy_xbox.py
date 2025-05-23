@@ -7,7 +7,7 @@ import time
 
 class JoyCmdVelPublisher(Node):
     def __init__(self):
-        super().__init__('joy_cmdvel_node')
+        super().__init__('joy_cmdvel_node') 
 
         # Publisher ไปยัง /cmd_vel
         self.cmd_pub = self.create_publisher(Twist, 'cmd_vel', 10)
